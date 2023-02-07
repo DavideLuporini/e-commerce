@@ -1,0 +1,10 @@
+:root {
+  --primaryColor: #ffffff;
+  --secondaryColor: #111111;
+  --primaryBackgroundColor: #ffffff;
+  --secondaryBackgroundColor: #111111;
+  --secondaryColor: #ffffff;
+  --primaryColor: #111111;
+  --radiusPrimaryButton: 25px;
+  --boxShadow: 0px 0px 1px 2px #eaeaea;
+}

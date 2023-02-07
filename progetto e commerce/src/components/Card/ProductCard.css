@@ -1,0 +1,13 @@
+.css-zqunet {
+  background-image: url("./prova.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.css-7mh9hc-MuiTypography-root {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  max-height: "50px";
+}
